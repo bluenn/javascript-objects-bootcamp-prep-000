@@ -3,3 +3,8 @@ var playlist = {
     springsteen: "Born to Run"
   
 }
+
+function updatePlaylist(playlist, name, title) {
+  playlist[name].title;
+  return playlist;
+}
